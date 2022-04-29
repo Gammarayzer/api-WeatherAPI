@@ -1,0 +1,33 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+  justify-content: center;
+  text-align: center;
+  margin: 10px;
+}
+body {
+  
+}
+
+article {
+  text-align: center;
+  border: 5px double black;
+  border-radius: 20px;
+  width: 50%;
+  margin: 5% 25%;
+
+
+}
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
